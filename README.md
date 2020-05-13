@@ -46,7 +46,7 @@ react-native init v59 --version 0.59.10
 ### 添加依赖
 package.json 的 dependencies 增加
 ```
-"react-native-baidu-map": "^1.0.30"
+"react-native-baidu-map-old": "*"
 ```
 ```shell
 npm install

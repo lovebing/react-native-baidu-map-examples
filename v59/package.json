@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.10",
-    "react-native-baidu-map": "*"
+    "react-native-baidu-map-old": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
