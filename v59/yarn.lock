@@ -5006,6 +5006,11 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.3:
   resolved "https://registry.npm.taobao.org/react-is/download/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha1-eJcppNw23imZ3BVt1sHZwYzqVqQ=
 
+react-native-baidu-map-old@*:
+  version "1.0.37"
+  resolved "https://registry.yarnpkg.com/react-native-baidu-map-old/-/react-native-baidu-map-old-1.0.37.tgz#e17e8dd845875d752354c51ce323ccf1077bd2ca"
+  integrity sha512-hO1di9HEDeTHMxsS3rFL3/NsudCXNQYyw2Gdmc/XRqTCgwqiJzqJHGwKLlcjkzquR/srdLaERqbkpOhFXR/dUQ==
+
 react-native@0.59.10:
   version "0.59.10"
   resolved "https://registry.npm.taobao.org/react-native/download/react-native-0.59.10.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-native%2Fdownload%2Freact-native-0.59.10.tgz#352f381e382f93a0403be499c9e384bf51c2591c"
@@ -6424,9 +6429,9 @@ xtend@~4.0.1:
   integrity sha1-u3J3n1+kZRhrH0OPZ0+jR/2121Q=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npm.taobao.org/y18n/download/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 y18n@^4.0.0:
   version "4.0.0"
